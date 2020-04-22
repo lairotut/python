@@ -387,3 +387,4 @@ The difficulties of dealing with production environments, coupled with the gains
 # CopyFrom
 
 [managing-python-environments](https://www.pluralsight.com/tech-blog/managing-python-environments/)
+[Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
